@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvtringify",
+        "uuid": 2020984,
+        "checksum": "yy0qml"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
